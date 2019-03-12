@@ -2,8 +2,8 @@
 //  TalkVideoManager.h
 //  AccessControl
 //
-//  Created by 柏永东 on 2019/2/16.
-//  Copyright © 2019 smile. All rights reserved.
+//  
+// 
 //
 
 #import <Foundation/Foundation.h>
